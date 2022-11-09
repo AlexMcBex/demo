@@ -1,4 +1,2 @@
 # demo
-i do know!
-## Subheader
-hellooo
+Let's try some github how 'bout dat
